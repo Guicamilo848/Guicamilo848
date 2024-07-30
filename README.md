@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas 
 
-<!--
-**Guicamilo848/Guicamilo848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Guilherme
 
-Here are some ideas to get you started:
+- sou estudante da ROC
+- estou desenvolvendo o curso do Alura na aula de Robotica
+- com a professora Genera
+- gosto muito de jogar online
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PARA ENTRAR EM CONTATO COMIGO ACESSE
+00001101570283sp@al.educacao.sp.gov.br
+OU 
+@camiloguilherme897
